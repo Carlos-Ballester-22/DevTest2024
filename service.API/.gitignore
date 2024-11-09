@@ -1,0 +1,54 @@
+# Visual Studio
+.vscode/
+.vs/
+.vscode/
+.vs/slnx.sqlite
+.vs/**/*.csproj.FileListAbsolute.txt
+
+# Archivos de configuración de usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de construcción
+bin/
+obj/
+
+# Configuración de paquetes NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Paquetes generados por NuGet
+*.dll
+*.exe
+*.app
+*.appref-ms
+*.pdb
+*.mdb
+*.log
+*.csproj.FileListAbsolute.txt
+*.cache
+*.diff
+*.patch
+*.map
+
+# Archivos de configuración del servidor IIS
+[Ii]isExpress/
+
+# Configuración de App Insights
+ApplicationInsights.config
+ApplicationInsightsTelemetry.config
+
+# Archivos de configuración locales
+launchSettings.json
+
+# Certificados de desarrollo
+*.pfx
+*.cer
+
+# Carpetas temporales de Rider
+.idea/
