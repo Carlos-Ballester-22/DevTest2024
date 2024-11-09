@@ -1,0 +1,12 @@
+.navbar {
+    background-color: blueviolet;
+    display: flex;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    padding: 20px;
+}
+
+.page {
+    margin: 10px;
+}
